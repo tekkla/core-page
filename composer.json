@@ -1,0 +1,14 @@
+{
+	"name" : "core-page",
+	"license" : "MIT",
+	"minimum-stability" : "dev",
+	"authors" : [{
+			"name" : "Michael \"Tekkla\" Zorn",
+			"email" : "tekkla@tekkla.de",
+			"role" : "Dev"
+		}
+	],
+	"support" : {
+		"email" : "tekkla@tekkla.de"
+	}
+}
