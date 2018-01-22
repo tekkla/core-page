@@ -11,11 +11,12 @@
 	"support" : {
 		"email" : "tekkla@tekkla.de"
 	},
-	"type" : "HTML creation library",
+	"type" : "library",
 	"homepage" : "https://github.com/tekkla/core-page",
 	"keywords" : [
 		"core",
 		"html",
 		"page"
-	]
+	],
+	"description" : "HTML creation library"
 }
