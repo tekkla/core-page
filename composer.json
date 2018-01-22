@@ -1,5 +1,5 @@
 {
-	"name" : "core-page",
+	"name" : "tekkla/core-page",
 	"license" : "MIT",
 	"minimum-stability" : "dev",
 	"authors" : [{
@@ -10,5 +10,12 @@
 	],
 	"support" : {
 		"email" : "tekkla@tekkla.de"
-	}
+	},
+	"type" : "HTML creation library",
+	"homepage" : "https://github.com/tekkla/core-page",
+	"keywords" : [
+		"core",
+		"html",
+		"page"
+	]
 }
